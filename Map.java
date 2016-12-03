@@ -3,9 +3,9 @@ import java.nio.file.*;
 
 /**
 *Diese Klasse stellt alle noetigen Methoden um ein Spielfeld zu erstellen und darzustellen.
-*Sowie eine Methode zur Ueberpruefug ob ein Punkt innerhalb des Spielfeldes liegt. Des Weiteren
+*Sowie die Moeglichkeit Objekte auf Kollisionen zu ueberpruefen. Des Weiteren
 *ermoeglicht sie die Synchronisation der Koordinaten des Spielers mit der Position des P's im Spielfeld.
-*Außerdem ist eine Methode enthalten, die die Bewegung des Spielers im Feld ermoeglicht.
+*Außerdem ist eine Methode enthalten, die die Bewegung des Spielers im Feld ermoeglicht und die Bewegung von Kisten.
 *@author Diyar Polat 4763428 Gruppe 3b
 *@author Thorben Sengpiel 4773337 Gruppe 3b
 */
